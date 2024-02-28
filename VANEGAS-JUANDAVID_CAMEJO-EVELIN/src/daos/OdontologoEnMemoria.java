@@ -23,7 +23,7 @@ public class OdontologoEnMemoria {
     }
 
     public List<Odontologos> buscarTodos() {
-        this.LOGGER.info("Encontramos los siguientes odontólogos: " + String.valueOf(this.odontologoRepository));
+        this.LOGGER.info("Encontramos los siguientes odontólogos: ");
         return this.odontologoRepository;
     }
 }

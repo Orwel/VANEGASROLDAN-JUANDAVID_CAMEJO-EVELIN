@@ -1,1 +1,21 @@
 [2024-02-27 21:15:43] [ INFO ] [OdontologosDAOH2:35] Se ha guardado un nuevo odontólogo correctamente.
+[2024-02-27 21:32:58] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: [entidades.Odontologos@7e0b85f9, entidades.Odontologos@63355449]
+[2024-02-27 21:32:59] [ ERROR] [OdontologosDAOH2:39] Error al intentar guardar un odontólogo en la base de datos.
+[2024-02-27 21:32:59] [ ERROR] [OdontologosDAOH2:39] Error al intentar guardar un odontólogo en la base de datos.
+[2024-02-27 21:32:59] [ ERROR] [OdontologosDAOH2:80] Error al intentar buscar todos los odontólogos en la base de datos.
+[2024-02-27 21:33:11] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: [entidades.Odontologos@7e0b85f9, entidades.Odontologos@63355449]
+[2024-02-27 21:33:12] [ INFO ] [OdontologosDAOH2:35] Se ha guardado un nuevo odontólogo correctamente.
+[2024-02-27 21:33:12] [ INFO ] [OdontologosDAOH2:35] Se ha guardado un nuevo odontólogo correctamente.
+[2024-02-27 21:33:12] [ INFO ] [OdontologosDAOH2:77] Lista de odontólogos recuperada exitosamente.
+[2024-02-27 21:35:30] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: [entidades.Odontologos@c267ef4, entidades.Odontologos@30ee2816]
+[2024-02-27 21:35:30] [ INFO ] [OdontologosDAOH2:35] Se ha guardado un nuevo odontólogo correctamente.
+[2024-02-27 21:35:30] [ INFO ] [OdontologosDAOH2:35] Se ha guardado un nuevo odontólogo correctamente.
+[2024-02-27 21:35:30] [ INFO ] [OdontologosDAOH2:77] Lista de odontólogos recuperada exitosamente.
+[2024-02-27 21:38:45] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: [entidades.Odontologos@30ee2816, entidades.Odontologos@31d7b7bf]
+[2024-02-27 21:41:02] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: 
+[2024-02-27 21:42:27] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: 
+[2024-02-27 21:43:05] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: 
+[2024-02-27 21:43:22] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: 
+[2024-02-27 21:46:32] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: 
+[2024-02-27 21:47:54] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: 
+[2024-02-27 21:48:06] [ INFO ] [OdontologoEnMemoria:26] Encontramos los siguientes odontólogos: 
