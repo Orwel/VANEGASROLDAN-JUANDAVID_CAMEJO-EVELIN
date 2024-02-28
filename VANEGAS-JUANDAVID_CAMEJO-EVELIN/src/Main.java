@@ -10,9 +10,19 @@ public class Main {
         OdontologosService odontologosService = new OdontologosService(new OdontologosDAOH2());
 
         Odontologos odontologos = new Odontologos();
-        odontologos.setMatricula(111111);
+        odontologos.setMatricula(100);
         odontologos.setNombre("Jose");
         odontologos.setApellido("Raush");
+
+        Odontologos odontologos2 = new Odontologos();
+        odontologos.setMatricula(101);
+        odontologos.setNombre("Evelin");
+        odontologos.setApellido("Camejo");
+
+        Odontologos odontologos3 = new Odontologos();
+        odontologos.setMatricula(102);
+        odontologos.setNombre("Juan David");
+        odontologos.setApellido("Roldan");
 
         // Utilizar el servicio para guardar el objeto odontologos en la base de datos
         odontologosService.guardarOdontologos(odontologos);
