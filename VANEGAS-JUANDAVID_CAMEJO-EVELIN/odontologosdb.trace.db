@@ -1,0 +1,10 @@
+2024-02-27 20:44:38.598708-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGOSREGISTRADOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologosregistrados (matricula, nombre, apellido) VALUES (?,?,?) [42104-224]
+2024-02-27 20:45:15.141040-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "INSERT INTO [*]VALUES (?,?,?)"; se esperaba "identifier"
+Syntax error in SQL statement "INSERT INTO [*]VALUES (?,?,?)"; expected "identifier"; SQL statement:
+INSERT INTO VALUES (?,?,?) [42001-224]
+2024-02-27 20:46:06.338946-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGOSREGISTRADOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologosregistrados (matricula, nombre, apellido) VALUES (?,?,?) [42104-224]
